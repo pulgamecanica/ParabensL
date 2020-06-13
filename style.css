@@ -1,0 +1,25 @@
+.container{
+	background-image: url("https://images.assetsdelivery.com/compings_v2/presidentkuma/presidentkuma1710/presidentkuma171000079.jpg");
+	opacity: 0.7;
+	background-repeat: repeat;
+
+}
+#blink{
+    font-size: 200px;
+    font-weight: bold;
+    font-family: 'Lobster', cursive;
+    color: #1c87c9;
+    transition:0.4s;
+    text-align: center;
+    position: relative;
+}
+img{
+	position: absolute;
+}
+.left{
+	padding-left: 75%;
+}
+
+.image:hover {
+  background-size: 350%;
+}
